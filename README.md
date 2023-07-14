@@ -4,6 +4,6 @@ Cleaning, formatting, and transforming raw data to ensure its quality, integrity
 <a href="https://github.com/marceloudo/DataCleaning-and-Preprocessing/blob/main/Pivot%20Table.ipynb">
 Pivot Table </a>=> How to keep and update Data, and Finally, send via email;<br>
 <a href="https://github.com/marceloudo/DataCleaning-and-Preprocessing/blob/main/Relationship%20between%20Tables.ipynb">
-Relation Between Tables </a> => Evaluate Inner and Outer Relationships.
+Relation Between Tables </a> => Evaluate Inner and Outer Relationships.<br>
 <a href="https://github.com/marceloudo/DataCleaning-and-Preprocessing/blob/main/Relationship%20between%20Tables.ipynb">
 Dealing With Missing Data </a> => Let’s now look at the different methods that you can use to deal with the missing data.
