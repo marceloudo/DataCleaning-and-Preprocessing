@@ -3,4 +3,5 @@ Cleaning, formatting, and transforming raw data to ensure its quality, integrity
 
 <a href="https://github.com/marceloudo/DataCleaning-and-Preprocessing/blob/main/Pivot%20Table.ipynb">
 Pivot Table</a>=> How to keep and update Data, and Finally, send via email;<br>
-Relation Between Tables => Evaluate Inner and Outer Relationships.
+<a href="https://github.com/marceloudo/DataCleaning-and-Preprocessing/blob/main/Relationship%20between%20Tables.ipynb">
+Relation Between Tables</a> => Evaluate Inner and Outer Relationships.
